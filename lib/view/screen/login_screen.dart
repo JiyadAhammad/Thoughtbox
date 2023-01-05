@@ -110,7 +110,7 @@ class LoginScreen extends StatelessWidget {
                         children: [
                           TextSpan(text: 'Don\'t Have An Account? '),
                           TextSpan(
-                            text: 'bold',
+                            text: 'Register',
                             style: TextStyle(
                                 fontWeight: FontWeight.w400,
                                 color: Color.fromARGB(255, 25, 230, 216)),

@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # api credintial 
-lib/services/api
+#lib/services/api
